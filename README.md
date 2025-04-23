@@ -59,6 +59,5 @@
 - 📡 **GitHub Sync Engine** (real-time commit sync & visualization)
 - 🕵️ **Suspicion Score** (detects inactivity or high reuse)
 
----
 
 
